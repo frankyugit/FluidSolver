@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  FluidSolver.cpp
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(163): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(195): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(233): warning C4129: '{': unrecognized character escape sequence
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(233): warning C4129: '}': unrecognized character escape sequence
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(293): warning C4129: '(': unrecognized character escape sequence
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(295): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(296): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\fluidsolver\fluidsolver\fluidsolver.cpp(297): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FluidSolver.vcxproj -> C:\Users\frank\Documents\Visual Studio 2015\Projects\FluidSolver\x64\Debug\FluidSolver.exe
+  FluidSolver.vcxproj -> C:\Users\frank\Documents\Visual Studio 2015\Projects\FluidSolver\x64\Debug\FluidSolver.pdb (Full PDB)
